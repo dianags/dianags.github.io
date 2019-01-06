@@ -11,7 +11,7 @@ locale:             en_US
 assets:             'assets/img/favicons'
 iconpng:            'favicon.png'
 iconico:            'favicon.ico'
-#url:                https://taylantatli.github.io/Moon
+url:                https://taylantatli.github.io/Moon
 
 # Jekyll
 permalink:          /:title/
