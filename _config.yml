@@ -1,7 +1,7 @@
 # Site
 title:              Diana Galván
-bio:                'Probando rawr'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'PhD (Computer Science) student at Tohoku University'
+description:        "PhD (Computer Science) student at Tohoku University."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/bw_profile_pic.png'
@@ -9,12 +9,6 @@ nav_logo:           'assets/img/bw_profile_pic_dark.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-#fav_a:              'assets/img/favicons/apple-icon-114x114.png'
-#fav_b:              'assets/img/favicons/apple-icon-144x144.png'
-#fav_c:              'assets/img/favicons/apple-icon-72x72.png'
-#fav_d:              'assets/img/favicons/apple-icon-precomposed.png'
-#iconpng:            'favicon.png'
-#iconico:            'favicon.ico'
 #url:                https://taylantatli.github.io/Moon
 
 # Jekyll
