@@ -9,6 +9,8 @@ comments: false
 <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
 ## Education
+![](/assets/img/favicons/bw-head-72x72.png)
+
 <figure class="half">
 	<a href="https://dianags.github.io/assets/img/favicons/bw-head-72x72.png"></a>
 </figure>
