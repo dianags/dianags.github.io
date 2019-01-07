@@ -6,11 +6,11 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>1st year PhD student in Information Science at Tohoku University and member of the <a href="http://www.cl.ecei.tohoku.ac.jp/"><b>Inui-Suzuki Lab</b></a> NLP research group</center>. I am advised by Professor <a href="http://www.cl.ecei.tohoku.ac.jp/~inui/"><b>Inui Kentaro</b></a>.
+<center>1st year PhD student in Information Science at Tohoku University and member of the <a href="http://www.cl.ecei.tohoku.ac.jp/" target="_blank"><b>Inui-Suzuki Lab</b></a> NLP research group. Advised by Professor <a href="http://www.cl.ecei.tohoku.ac.jp/~inui/" target="_blank"><b>Inui Kentaro</b></a>.</center>
 
 My current research interests are in **knowledge acquisition** for **machine reading comprehension** and **question answering**, particulary when **common sense knowledge** is required. I am also interested in temporal reasoning, especially on it's application to the clinical domain.
 
-Previously, I worked as data manager of a clinical trial at the <a href="https://mentalhealth.apec.org/partners/mexico/mexico-ram%C3%B3n-de-la-fuente-mu%C3%B1iz-national-institute-psychiatry"><b>National Institute of Psychiatry Ramon de la Fuente Muñiz</b></a> in Mexico City. Before that, I graduated in Computer Science with a major in Networking and Security from <a href="https://tec.mx/en/ciudad-de-mexico"><b>Monterrey Institute of Technology and Higher Education</b></a> in 2010.
+Previously, I worked as data manager of a clinical trial at the <a href="https://mentalhealth.apec.org/partners/mexico/mexico-ram%C3%B3n-de-la-fuente-mu%C3%B1iz-national-institute-psychiatry" target="_blank"><b>National Institute of Psychiatry Ramon de la Fuente Muñiz</b></a> in Mexico City. Before that, I graduated in Computer Science with a major in Networking and Security from <a href="https://tec.mx/en/ciudad-de-mexico" target="_blank"><b>Monterrey Institute of Technology and Higher Education</b></a> in 2010.
 
 ## Education
 * **Doctor of Information Science**, 2018
