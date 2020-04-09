@@ -20,3 +20,7 @@ Previously, I worked as data manager of a clinical trial at the <a href="https:/
 ## Awards
 * Excellence Award, 26th Annual Meeting of the Language Processing Society of Japan. 2020
 * 3rd Best Poster, Third Annual Data Science in Life Science and Engineering Collaboration and Symposium at Case Western Reserve University. 2017
+
+## Activities
+### Reviewer
+* ACL SRW 2020
