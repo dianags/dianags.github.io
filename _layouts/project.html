@@ -32,6 +32,9 @@ layout: compress
                             {% if post.poster %}
                             <a href="{{ site.url }}/{{ post.pdfposter }}" target="_blank" class="btn">Poster</a>
                             {% endif %}
+                            {% if post.slides %}
+                            <a href="{{ site.url }}/{{ post.pdfslides }}" target="_blank" class="btn">Slides</a>
+                            {% endif %}                            
                         </li>
                     </ul>
                       {% endif %}
