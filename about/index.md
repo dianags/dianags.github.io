@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>3rd year PhD student in Information Science at Tohoku University and member of the <a href="https://www.nlp.ecei.tohoku.ac.jp/" target="_blank"><b>Inui-Suzuki Lab</b></a> NLP research group. Advised by Professor <a href="http://www.cl.ecei.tohoku.ac.jp/~inui/" target="_blank"><b>Inui Kentaro</b></a>.</center>
+<center>3rd year PhD student in Information Science at Tohoku University and member of the <a href="https://www.nlp.ecei.tohoku.ac.jp/" target="_blank"><b>Inui Lab</b></a> NLP research group. Advised by Professor <a href="http://www.cl.ecei.tohoku.ac.jp/~inui/" target="_blank"><b>Kentaro Inui</b></a>.</center>
 
 My current research interests are in **knowledge acquisition** for **machine reading comprehension** and **question answering**, particulary when **common sense knowledge** is required. I am also interested in temporal reasoning, especially on it's application to the clinical domain. Other interests include sports and music. 
 
@@ -24,3 +24,4 @@ Previously, I worked as data manager of a clinical trial at the <a href="https:/
 ## Activities
 ### Reviewer
 * ACL SRW 2020
+* AACL-IJCNLP SRW 2020
