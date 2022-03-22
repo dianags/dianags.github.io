@@ -24,6 +24,7 @@ Previously, I worked as data manager of a clinical trial at the <a href="https:/
 ## Activities
 ### Diversity and Inclusion (D&I)
 * NAACL 2022 D&I Co-chair
+
 ### Reviewer
 * ACL SRW 2020
 * AACL-IJCNLP SRW 2020
