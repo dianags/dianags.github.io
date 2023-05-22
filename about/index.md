@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>Specially Appointed Assistant Professor at the <a href="https://www.nlp.ecei.tohoku.ac.jp/" target="_blank"><b>Inui Lab</b></a> NLP research group led by Professor <a href="http://www.cl.ecei.tohoku.ac.jp/~inui/" target="_blank"><b>Kentaro Inui</b></a>.</center>
+<center>Specially Appointed Assistant Professor at the <a href="https://www.nlp.ecei.tohoku.ac.jp/" target="_blank"><b>Tohoku NLP Group</b></a> led by Professor <a href="http://www.cl.ecei.tohoku.ac.jp/~inui/" target="_blank"><b>Kentaro Inui</b></a>.</center>
 
 My current research interest focus on **educational applications of NLP**. Other research interests include **knowledge acquisition** for **machine reading comprehension** and **question answering**, particulary when **common sense knowledge** is required. I am also interested in temporal reasoning, especially on it's application to the clinical domain. On a personal note, I love sports and music.
 
@@ -19,11 +19,15 @@ Previously, I worked as data manager of a clinical trial at the <a href="https:/
 
 ## Awards
 * Excellence Award, 26th Annual Meeting of the Language Processing Society of Japan. 2020
+* Funding for selected candidates, Data Science Summer School at the University of Göttingen, Germany. 2019
 * 3rd Best Poster, Third Annual Data Science in Life Science and Engineering Collaboration and Symposium at Case Western Reserve University. 2017
+* Monbukagakusho (Japanese Government) MEXT Graduate Scholarship. 2015-2021
 
 ## Activities
 ### Diversity and Inclusion (D&I)
-* NAACL 2022 D&I Co-chair
+* <a href="https://2022.naacl.org/committees/diversity-inclusion/" target="_blank">NAACL 2022 D&I Co-chair</a>
+* <a href="https://www.latinxinai.org/naacl-2022" target="_blank">LatinX in NLP 2022 workshop</a>
+* LatinX in AI (LXAI) socials: EMNLP 2020, EACL 2021, EMNLP 2022
 
 ### Reviewer
 * ACL SRW 2020
