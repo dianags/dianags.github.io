@@ -1,7 +1,7 @@
 # Site
 title:              Diana Galvan-Sosa
-bio:                'Specially Appointed Assistant Professor at Tohoku University'
-description:        "Specially Appointed Assistant Professor at Tohoku University."
+bio:                'Research Associate at the University of Cambridge'
+description:        "Research Associate at the University of Cambridge."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/bw_profile_pic.png'
@@ -38,7 +38,7 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:              dianags(at)tohoku.ac.jp
+email:              dg693(at)cam.ac.uk
 twitter:            devoidikk
 #facebook:           username
 github-url:         dianags
