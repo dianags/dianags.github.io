@@ -10,7 +10,7 @@ comments: false
 
 My current research interest focus on **educational applications of NLP**. Other research interests include **knowledge acquisition** for **machine reading comprehension** and **question answering**, particulary when **common sense knowledge** is required. I am also interested in temporal reasoning, especially on it's application to the clinical domain. On a personal note, I love sports and music.
 
-Previously, I was a Specially Appointed Assistant Professor in the <a href="https://www.nlp.ecei.tohoku.ac.jp/" target="_blank"><b>Tohoku NLP Group</b></a> led by Professor <a href="http://www.cl.ecei.tohoku.ac.jp/~inui/" target="_blank"><b>Kentaro Inui</b></a> at Tohoku University, Japan.</center>
+Previously, I was a Specially Appointed Assistant Professor in the <a href="https://www.nlp.ecei.tohoku.ac.jp/" target="_blank"><b>Tohoku NLP Group</b></a> led by Professor <a href="http://www.cl.ecei.tohoku.ac.jp/~inui/" target="_blank"><b>Kentaro Inui</b></a> at Tohoku University, Japan.
 Before moving to Japan, I worked as Data Manager of a clinical trial at the <a href="https://mentalhealth.apec.org/partners/mexico/mexico-ram%C3%B3n-de-la-fuente-mu%C3%B1iz-national-institute-psychiatry" target="_blank"><b>National Institute of Psychiatry Ramon de la Fuente Muñiz</b></a> in Mexico City. I hold a PhD and Master's degree in Information Science from Tohoku University, and a Bachelor's degree in Computer Science with a major in Networking and Security from the <a href="https://tec.mx/en/ciudad-de-mexico" target="_blank"><b>Monterrey Institute of Technology and Higher Education</b></a>.
 
 ## Education
