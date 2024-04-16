@@ -42,4 +42,10 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 * AACL-IJCNLP SRW 2020
 * ACL SRW 2020
 
+### Interviews & Talks
+* [Online talk @ <a href="https://www.topuniversities.com/universities/universidad-autonoma-metropolitana-uam" target="_blank">UAM</a>] Trabajando en PLN: lo que debes saber <i>(Working in NLP: what you need to know)</i>, scheduled for April 2024
+* [Online talk @ <a href="https://www.linkedin.com/company/somosnlp/" target="_blank">SomosNLP</a>] <a href="https://www.youtube.com/live/0f-wLobIOps?si=vCw72hNoP9KahIER" target="_blank">Escritura de abstracts: presenta tu proyecto a LatinX in NLP (how to write an abstract tutorial)</a>, 2024
+* [Interview @ <a href="https://www.queerinai.com/" target="_blank">QueerInAI</a>] <a href="https://www.queerinai.com/blog/a-home-for-all-the-parts" target="_blank">Making a Home for all the Parts</a>, 2023
+* [Interview @ <a href="https://embamex.sre.gob.mx/japon/index.php/en/" target="_blank">EmbamexJP</a>] <a href="https://youtu.be/vC5lN3TMuxI?si=gLthIIyexfwmNSKp" target="_blank">Lenguaje e Inteligencia Artificial <i>(Language and Artificial Intelligence)</i></a>, 2023
+
 
