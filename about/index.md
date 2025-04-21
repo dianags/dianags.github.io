@@ -26,6 +26,7 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 
 ## Activities
 ### Diversity and Inclusion (D&I)
+* <a href="https://somosnlp.org/hackathon" target="_blank">Hackathon SomosNLP 2025</a>
 * <a href="https://2024.naacl.org/committees/organization/#ethics-chairs" target="_blank">NAACL 2024 Ethics Co-chair</a>
 * <a href="https://www.latinxinai.org/naacl-2024" target="_blank">LatinX in NLP 2024 workshop</a>
 * <a href="https://ampln.github.io/escuelaverano2024/" target="_blank">Mexican NLP Summer School 2024</a>
@@ -33,7 +34,12 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 * <a href="https://www.latinxinai.org/naacl-2022" target="_blank">LatinX in NLP 2022 workshop</a>
 * LatinX in AI (LXAI) socials: EMNLP 2020, EACL 2021, EMNLP 2022
 
+## Workshops
+* <a href="https://sites.google.com/view/eval-lac-2024/" target="_blank">EvalLac 2024</a> (co-located with AIED 2024)
+
 ### Reviewer
+* Natural Language Processing (a Cambridge University Press journal)
+* WRAICOGS 2025
 * BEA 2023, 2024
 * LREC-COLING 2024
 * Journal of Cognitive Science
@@ -43,6 +49,7 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 * ACL SRW 2020
 
 ### Interviews & Talks
+* [Panelist @ <a href="https://www.agiodyssey.org/#/Symposium" target="_blank">2024 AGI Odyssey Symposium</a>] AI for Education: Transforming Learning Environments</i>, October 2024
 * [Online talk @ <a href="https://www.topuniversities.com/universities/universidad-autonoma-metropolitana-uam" target="_blank">UAM</a>] Trabajando en PLN: lo que debes saber <i>(Working in NLP: what you need to know)</i>, April 2024
 * [Online talk @ <a href="https://www.linkedin.com/company/somosnlp/" target="_blank">SomosNLP</a>] <a href="https://www.youtube.com/live/0f-wLobIOps?si=vCw72hNoP9KahIER" target="_blank">Escritura de abstracts: presenta tu proyecto a LatinX in NLP (how to write an abstract tutorial)</a>, 2024
 * [Interview @ <a href="https://www.queerinai.com/" target="_blank">QueerInAI</a>] <a href="https://www.queerinai.com/blog/a-home-for-all-the-parts" target="_blank">Making a Home for all the Parts</a>, 2023
