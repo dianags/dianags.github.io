@@ -40,7 +40,7 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 ### Reviewer
 * Natural Language Processing (a Cambridge University Press journal)
 * WRAICOGS 2025
-* BEA 2023, 2024
+* BEA 2023, 2024, 2025
 * LREC-COLING 2024
 * Journal of Cognitive Science
 * ACL SRW 2022
@@ -49,7 +49,7 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 * ACL SRW 2020
 
 ### Interviews & Talks
-* [Panelist @ <a href="https://www.agiodyssey.org/#/Symposium" target="_blank">2024 AGI Odyssey Symposium</a>] AI for Education: Transforming Learning Environments</i>, October 2024
+* [Panelist @ <a href="https://www.agiodyssey.org/#/Symposium" target="_blank">2024 AGI Odyssey Symposium</a>] AI for Education: Transforming Learning Environments, October 2024
 * [Online talk @ <a href="https://www.topuniversities.com/universities/universidad-autonoma-metropolitana-uam" target="_blank">UAM</a>] Trabajando en PLN: lo que debes saber <i>(Working in NLP: what you need to know)</i>, April 2024
 * [Online talk @ <a href="https://www.linkedin.com/company/somosnlp/" target="_blank">SomosNLP</a>] <a href="https://www.youtube.com/live/0f-wLobIOps?si=vCw72hNoP9KahIER" target="_blank">Escritura de abstracts: presenta tu proyecto a LatinX in NLP (how to write an abstract tutorial)</a>, 2024
 * [Interview @ <a href="https://www.queerinai.com/" target="_blank">QueerInAI</a>] <a href="https://www.queerinai.com/blog/a-home-for-all-the-parts" target="_blank">Making a Home for all the Parts</a>, 2023
