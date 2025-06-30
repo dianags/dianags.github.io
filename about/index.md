@@ -35,18 +35,19 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 * LatinX in AI (LXAI) socials: EMNLP 2020, EACL 2021, EMNLP 2022
 
 ## Workshops
-* <a href="https://sites.google.com/view/eval-lac-2024/" target="_blank">EvalLac 2024</a> (co-located with AIED 2024)
+* <a href="https://sites.google.com/cam.ac.uk/eval-lac-2025/" target="_blank">EvalLAC 2025</a> (co-located with AIED 2025)
+* <a href="https://sites.google.com/view/eval-lac-2024/" target="_blank">EvalLAC 2024</a> (co-located with AIED 2024)
 
 ### Reviewer
 * Natural Language Processing (a Cambridge University Press journal)
 * WRAICOGS 2025
 * BEA 2023, 2024, 2025
 * LREC-COLING 2024
+* ACL ARR (Ethics) 2024, 2025
 * Journal of Cognitive Science
-* ACL SRW 2022
+* ACL SRW 2020, 2022, 2025
 * ACL-IJCNLP SRW 2021
 * AACL-IJCNLP SRW 2020
-* ACL SRW 2020
 
 ### Interviews & Talks
 * [Panelist @ <a href="https://www.agiodyssey.org/#/Symposium" target="_blank">2024 AGI Odyssey Symposium</a>] AI for Education: Transforming Learning Environments, October 2024
