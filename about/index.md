@@ -19,6 +19,7 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 * **Bachelor of Science in Computer Science and Technology**, *Monterrey Institute of Technology and Higher Education*, 2006 - 2010 🇲🇽
 
 ## Awards
+* Best Paper Award Nominee, International Conference on Artificial Intelligence in Education (AIED). 2025
 * Excellence Award, 26th Annual Meeting of the Language Processing Society of Japan. 2020
 * Funding for selected candidates, Data Science Summer School at the University of Göttingen, Germany. 2019
 * 3rd Best Poster, Third Annual Data Science in Life Science and Engineering Collaboration and Symposium at Case Western Reserve University. 2017
@@ -26,6 +27,7 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 
 ## Activities
 ### Diversity and Inclusion (D&I)
+* <a href="https://2025.aclweb.org/program/bof/" target="_blank">SomosNLP @ ACL 2025</a> 
 * <a href="https://somosnlp.org/hackathon" target="_blank">Hackathon SomosNLP 2025</a>
 * <a href="https://2024.naacl.org/committees/organization/#ethics-chairs" target="_blank">NAACL 2024 Ethics Co-chair</a>
 * <a href="https://www.latinxinai.org/naacl-2024" target="_blank">LatinX in NLP 2024 workshop</a>
@@ -50,6 +52,7 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 * AACL-IJCNLP SRW 2020
 
 ### Interviews & Talks
+* [Panelist @ <a href="https://www.latinxinai.org/events/pride-webinar" target="_blank">LXAI</a>] <a href="https://www.youtube.com/watch?v=kPs7Cqfmkoc" target="_blank">AI + Pride – Pride Month Webinar</a>, July 2025
 * [Panelist @ <a href="https://www.agiodyssey.org/#/Symposium" target="_blank">2024 AGI Odyssey Symposium</a>] AI for Education: Transforming Learning Environments, October 2024
 * [Online talk @ <a href="https://www.topuniversities.com/universities/universidad-autonoma-metropolitana-uam" target="_blank">UAM</a>] Trabajando en PLN: lo que debes saber <i>(Working in NLP: what you need to know)</i>, April 2024
 * [Online talk @ <a href="https://www.linkedin.com/company/somosnlp/" target="_blank">SomosNLP</a>] <a href="https://www.youtube.com/live/0f-wLobIOps?si=vCw72hNoP9KahIER" target="_blank">Escritura de abstracts: presenta tu proyecto a LatinX in NLP (how to write an abstract tutorial)</a>, 2024
