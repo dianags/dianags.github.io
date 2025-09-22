@@ -26,21 +26,25 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 * Monbukagakusho (Japanese Government) MEXT Graduate Scholarship. 2015-2021
 
 ## Activities
-### Diversity and Inclusion (D&I)
+### Conferences
+* <a href="https://2026.eacl.org/committees/organization/" target="_blank">EACL 2026 D&I Co-chair</a>
+* <a href="https://neurips.cc/Conferences/2025/Committees" target="_blank">NeurIPS 2025 Mexico City Tutorial Chair</a>
+* <a href="https://2024.naacl.org/committees/organization/#ethics-chairs" target="_blank">NAACL 2024 Ethics Co-chair</a>
+* <a href="https://2022.naacl.org/committees/diversity-inclusion/" target="_blank">NAACL 2022 D&I Co-chair</a>
+
+### Affinity Group / Community Events
 * <a href="https://2025.aclweb.org/program/bof/" target="_blank">SomosNLP @ ACL 2025</a> 
 * <a href="https://somosnlp.org/hackathon" target="_blank">Hackathon SomosNLP 2025</a>
-* <a href="https://2024.naacl.org/committees/organization/#ethics-chairs" target="_blank">NAACL 2024 Ethics Co-chair</a>
-* <a href="https://www.latinxinai.org/naacl-2024" target="_blank">LatinX in NLP 2024 workshop</a>
-* <a href="https://ampln.github.io/escuelaverano2024/" target="_blank">Mexican NLP Summer School 2024</a>
-* <a href="https://2022.naacl.org/committees/diversity-inclusion/" target="_blank">NAACL 2022 D&I Co-chair</a>
-* <a href="https://www.latinxinai.org/naacl-2022" target="_blank">LatinX in NLP 2022 workshop</a>
+* <a href="https://ampln.github.io/escuelaverano2024/" target="_blank">Mexican NLP Summer School 2024</a> (co-located with NAACL 2024)
+* <a href="https://www.latinxinai.org/naacl-2024" target="_blank">LatinX in NLP 2024 workshop</a> (co-located with NAACL 2024)
+* <a href="https://www.latinxinai.org/naacl-2022" target="_blank">LatinX in NLP 2022 workshop</a> (co-located with NAACL 2022)
 * LatinX in AI (LXAI) socials: EMNLP 2020, EACL 2021, EMNLP 2022
 
-## Workshops
+### Workshops
 * <a href="https://sites.google.com/cam.ac.uk/eval-lac-2025/" target="_blank">EvalLAC 2025</a> (co-located with AIED 2025)
 * <a href="https://sites.google.com/view/eval-lac-2024/" target="_blank">EvalLAC 2024</a> (co-located with AIED 2024)
 
-### Reviewer
+### Reviewing
 * Natural Language Processing (a Cambridge University Press journal)
 * WRAICOGS 2025
 * BEA 2023, 2024, 2025
@@ -52,6 +56,7 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 * AACL-IJCNLP SRW 2020
 
 ### Interviews & Talks
+* [Online talk @ <a href="https://www.youtube.com/@CIMAT/videos" target="_blank">CIMAT</a>] La intersección entre la Explicabilidad y el PLN educativo <i>(The intersection between Explainability and educational NLP)</i>, September 2025
 * [Panelist @ <a href="https://www.latinxinai.org/events/pride-webinar" target="_blank">LXAI</a>] <a href="https://www.youtube.com/watch?v=kPs7Cqfmkoc" target="_blank">AI + Pride – Pride Month Webinar</a>, July 2025
 * [Panelist @ <a href="https://www.agiodyssey.org/#/Symposium" target="_blank">2024 AGI Odyssey Symposium</a>] AI for Education: Transforming Learning Environments, October 2024
 * [Online talk @ <a href="https://www.topuniversities.com/universities/universidad-autonoma-metropolitana-uam" target="_blank">UAM</a>] Trabajando en PLN: lo que debes saber <i>(Working in NLP: what you need to know)</i>, April 2024
@@ -59,4 +64,9 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 * [Interview @ <a href="https://www.queerinai.com/" target="_blank">QueerInAI</a>] <a href="https://www.queerinai.com/blog/a-home-for-all-the-parts" target="_blank">Making a Home for all the Parts</a>, 2023
 * [Interview @ <a href="https://embamex.sre.gob.mx/japon/index.php/en/" target="_blank">EmbamexJP</a>] <a href="https://youtu.be/vC5lN3TMuxI?si=gLthIIyexfwmNSKp" target="_blank">Lenguaje e Inteligencia Artificial <i>(Language and Artificial Intelligence)</i></a>, 2023
 
-
+## Miscellaneous
+* 🏹 Archery (2024-Present)
+* 🤾🏽‍♀️ Handball (2024-Present)
+* 🥋 Karate-Do (2000-2020)
+    * 🇯🇵 Regional Competitor (2017: 🥈)
+    * 🇲🇽 National Competitor (2010: 🥉, 2012: 🥈, 2013: 🥉)
