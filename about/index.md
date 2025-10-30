@@ -18,11 +18,13 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 * **Master of Information Science**, *Tohoku University*, 2016 - 2018 🇯🇵
 * **Bachelor of Science in Computer Science and Technology**, *Monterrey Institute of Technology and Higher Education*, 2006 - 2010 🇲🇽
 
-## Awards
+## Awards, Honors, and Recognition
+* Outstanding Paper Award, BabyLM Workshop, The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP). 2025
 * [Spotlight Paper Presentation Selection](https://melt-workshop.github.io/papers/), MELT Workshop, Conference On Language Modeling (COLM). 2025
 * [Best Paper Award Nominee](https://aied2025.itd.cnr.it/index.php/program/main-track-best-papers-nominees/), International Conference on Artificial Intelligence in Education (AIED). 2025
+* UK Global Talent Endorsement (Exceptional Promise), Endorsed by The Royal Academy of Engineering. 2024
 * [Excellence Award](https://www.anlp.jp/award/nenji.html), 26th Annual Meeting of the Language Processing Society of Japan. 2020
-* Funding for selected candidates, Data Science Summer School at the University of Göttingen, Germany. 2019
+* Funding for selected candidates, Data Science Summer School at the University of Göttingen. 2019
 * 3rd Best Poster, Third Annual Data Science in Life Science and Engineering Collaboration and Symposium at Case Western Reserve University. 2017
 * Monbukagakusho (Japanese Government) MEXT Graduate Scholarship. 2015-2021
 
