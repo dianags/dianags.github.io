@@ -50,15 +50,18 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 ### Reviewing
 * Natural Language Processing (a Cambridge University Press journal)
 * WRAICOGS 2025
-* BEA 2023, 2024, 2025
+* BEA 2023, 2024, 2025, 2026
 * LREC-COLING 2024
 * ACL ARR (Ethics) 2024, 2025
 * Journal of Cognitive Science
+* EACL SRW 2026
 * ACL SRW 2020, 2022, 2025
 * ACL-IJCNLP SRW 2021
 * AACL-IJCNLP SRW 2020
 
 ### Interviews & Talks
+* [Online talk @ University of Copenhagen] Multilingual and Interactional Approaches to Human-Scale Language Modelling, May 2026
+* [Talk @ University of Exeter] Why is this "Bad"? A Rubric-Based Approach to Assessing Explanation and Feedback Quality, May 2026
 * [Online talk @ <a href="https://www.youtube.com/@CIMAT/videos" target="_blank">CIMAT</a>] La intersección entre la Explicabilidad y el PLN educativo <i>(The intersection between Explainability and educational NLP)</i>, September 2025
 * [Panelist @ <a href="https://www.latinxinai.org/events/pride-webinar" target="_blank">LXAI</a>] <a href="https://www.youtube.com/watch?v=kPs7Cqfmkoc" target="_blank">AI + Pride – Pride Month Webinar</a>, July 2025
 * [Panelist @ <a href="https://www.agiodyssey.org/#/Symposium" target="_blank">2024 AGI Odyssey Symposium</a>] AI for Education: Transforming Learning Environments, October 2024
