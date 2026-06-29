@@ -60,7 +60,7 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 * AACL-IJCNLP SRW 2020
 
 ### Interviews & Talks
-* [Online talk @ University of Copenhagen] Multilingual and Interactional Approaches to Human-Scale Language Modelling, May 2026
+* [Online talk @ <a href="https://x.com/suchirsalhan/status/2056294792498118830?s=20" target="_blank">University of Copenhagen</a>] Multilingual and Interactional Approaches to Human-Scale Language Modelling, May 2026
 * [Talk @ University of Exeter] Why is this "Bad"? A Rubric-Based Approach to Assessing Explanation and Feedback Quality, May 2026
 * [Online talk @ <a href="https://www.youtube.com/@CIMAT/videos" target="_blank">CIMAT</a>] La intersección entre la Explicabilidad y el PLN educativo <i>(The intersection between Explainability and educational NLP)</i>, September 2025
 * [Panelist @ <a href="https://www.latinxinai.org/events/pride-webinar" target="_blank">LXAI</a>] <a href="https://www.youtube.com/watch?v=kPs7Cqfmkoc" target="_blank">AI + Pride – Pride Month Webinar</a>, July 2025
@@ -69,6 +69,13 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 * [Online talk @ <a href="https://www.linkedin.com/company/somosnlp/" target="_blank">SomosNLP</a>] <a href="https://www.youtube.com/live/0f-wLobIOps?si=vCw72hNoP9KahIER" target="_blank">Escritura de abstracts: presenta tu proyecto a LatinX in NLP (how to write an abstract tutorial)</a>, 2024
 * [Interview @ <a href="https://www.queerinai.com/" target="_blank">QueerInAI</a>] <a href="https://www.queerinai.com/blog/a-home-for-all-the-parts" target="_blank">Making a Home for all the Parts</a>, 2023
 * [Interview @ <a href="https://embamex.sre.gob.mx/japon/index.php/en/" target="_blank">EmbamexJP</a>] <a href="https://youtu.be/vC5lN3TMuxI?si=gLthIIyexfwmNSKp" target="_blank">Lenguaje e Inteligencia Artificial <i>(Language and Artificial Intelligence)</i></a>, 2023
+
+### Mentoring & Supervision
+* <a href="https://coynestevencharles.github.io/" target="_blank">Steven Coyne</a> ・ PhD Student, Tohoku University (Japan)
+* <a href="https://gabigaudeau.github.io/" target="_blank">Gabrielle Gaudeau</a> ・ PhD Student, University of Cambridge (United Kingdom)
+* Yeji Heo ・ MPhil Student, University of Cambridge (United Kingdom)
+    * Thesis: Tracing Cultural Knowledge Across Pretraining Regimes: Behaviour, Localisation, and Emergence
+    * Co-supervisors: <a href="https://www.suchirsalhan.com/about" target="_blank">Suchir Salhan</a> and Paula Buttery 
 
 ## Miscellaneous
 * 🏹 Archery (2024-Present)
