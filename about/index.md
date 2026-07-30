@@ -28,7 +28,7 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 * 3rd Best Poster, Third Annual Data Science in Life Science and Engineering Collaboration and Symposium at Case Western Reserve University. 2017
 * Monbukagakusho (Japanese Government) MEXT Graduate Scholarship. 2015-2021
 
-## Activities
+## Professional Activities
 ### Conferences
 * <a href="https://2026.eacl.org/committees/organization/" target="_blank">EACL 2026 D&I Co-chair</a>
 * <a href="https://neurips.cc/Conferences/2025/Committees" target="_blank">NeurIPS 2025 Mexico City Tutorial Chair</a>
@@ -49,10 +49,11 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 
 ### Reviewing
 * Natural Language Processing (a Cambridge University Press journal)
+* BlackboxNLP 2026
 * WRAICOGS 2025
 * BEA 2023, 2024, 2025, 2026
 * LREC-COLING 2024
-* ACL ARR (Ethics) 2024, 2025
+* ACL ARR (Ethics) 2024, 2025, 2026
 * Journal of Cognitive Science
 * EACL SRW 2026
 * ACL SRW 2020, 2022, 2025
@@ -61,7 +62,7 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 
 ### Interviews & Talks
 * [Online talk @ <a href="https://x.com/suchirsalhan/status/2056294792498118830?s=20" target="_blank">University of Copenhagen</a>] Multilingual and Interactional Approaches to Human-Scale Language Modelling, May 2026
-* [Talk @ University of Exeter] Why is this "Bad"? A Rubric-Based Approach to Assessing Explanation and Feedback Quality, May 2026
+* [Talk @ <a href="https://www.exeter.ac.uk/events/faculties/ese/computer-science/why_is_this_bad_a_rubric-based_approach_to_assessing_explanation_and_feedback_quality.php" target="_blank"> University of Exeter</a>] Why is this "Bad"? A Rubric-Based Approach to Assessing Explanation and Feedback Quality, May 2026
 * [Online talk @ <a href="https://www.youtube.com/@CIMAT/videos" target="_blank">CIMAT</a>] La intersección entre la Explicabilidad y el PLN educativo <i>(The intersection between Explainability and educational NLP)</i>, September 2025
 * [Panelist @ <a href="https://www.latinxinai.org/events/pride-webinar" target="_blank">LXAI</a>] <a href="https://www.youtube.com/watch?v=kPs7Cqfmkoc" target="_blank">AI + Pride – Pride Month Webinar</a>, July 2025
 * [Panelist @ <a href="https://www.agiodyssey.org/#/Symposium" target="_blank">2024 AGI Odyssey Symposium</a>] AI for Education: Transforming Learning Environments, October 2024
