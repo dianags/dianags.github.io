@@ -28,6 +28,21 @@ layout: compress
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <p>{{ post.excerpt }}</p>
+                
+                            <!-- Custom Publication Buttons (Shown First) -->
+                            {% if post.pdfpaper %}
+                                <a href="{{ post.pdfpaper }}" class="btn zoombtn" target="_blank" rel="noopener">Paper</a>
+                            {% endif %}
+                
+                            {% if post.pdfposter %}
+                                <a href="{{ post.pdfposter | relative_url }}" class="btn zoombtn" target="_blank" rel="noopener">Poster</a>
+                            {% endif %}
+                
+                            {% if post.pdfslides %}
+                                <a href="{{ post.pdfslides | relative_url }}" class="btn zoombtn" target="_blank" rel="noopener">Slides</a>
+                            {% endif %}
+                
+                            <!-- Main Post Link (Shown Last) -->
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
                         </li>
                     </ul>
