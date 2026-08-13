@@ -26,10 +26,17 @@ layout: compress
                         {% if post.project == null %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                            
+                            <!-- Title Link: Clickable ONLY if 'readmore: true' is in front matter -->
+                            {% if post.readmore %}
+                                <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                            {% else %}
+                                <h3 class="post-title">{{ post.title }}</h3>
+                            {% endif %}
+                
                             <p>{{ post.excerpt }}</p>
                 
-                            <!-- Custom Publication Buttons (Without 'zoombtn' so tab clicks don't hide the page) -->
+                            <!-- Custom Publication Buttons -->
                             {% if post.pdfpaper %}
                                 <a href="{{ post.pdfpaper }}" class="btn" target="_blank" rel="noopener">Paper</a>
                             {% endif %}
@@ -42,10 +49,11 @@ layout: compress
                                 <a href="{{ post.pdfslides | relative_url }}" class="btn" target="_blank" rel="noopener">Slides</a>
                             {% endif %}
                 
-                            <!-- Main Post Link (HIDDEN BY DEFAULT; only shows if 'readmore: true' is in the post header) -->
+                            <!-- Main Post Link -->
                             {% if post.readmore %}
                                 <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
                             {% endif %}
+                            
                         </li>
                     </ul>
                         {% endif %}
