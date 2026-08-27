@@ -51,6 +51,8 @@ Before moving to Japan, I worked as Data Manager of a clinical trial at the <a h
 * Natural Language Processing (a Cambridge University Press journal)
 * BlackboxNLP 2026
 * WRAICOGS 2025
+* KHIPUx 2026-207
+* KHIPU 2025, 2027
 * BEA 2023, 2024, 2025, 2026
 * LREC-COLING 2024
 * ACL ARR (Ethics) 2024, 2025, 2026
